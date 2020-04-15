@@ -48319,7 +48319,7 @@ __webpack_require__(420);
 /* 422 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "images/example-396bec7d.jpg";
+module.exports = __webpack_require__.p + "https://cdn.jsdelivr.net/gh/lengxii/CDN/sy/images/example-396bec7d.jpg";
 
 /***/ }),
 /* 423 */
